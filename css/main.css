@@ -218,7 +218,7 @@ body {
   .header .menu {
     flex-direction: column;
     align-items: center;
-    padding: 255px 0px 0px 30px;
+    padding: 255px 0px 0px 0px;
     gap: 50px;
   }
 }
